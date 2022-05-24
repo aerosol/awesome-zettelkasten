@@ -43,6 +43,7 @@
 - [zknotes](https://github.com/bburdette/zknotes)
 - [Zkn³](http://zettelkasten.danielluedecke.de/en/)
 - [FSNotes](https://fsnot.es)
+- [Writer's Block](https://mtod.org/wb)
 
 ### Emacs
 
